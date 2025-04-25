@@ -4,10 +4,10 @@
 
 </div>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/matheustm29/Furia-Together)
-![GitHub contributors](https://img.shields.io/github/contributors/matheustm29/Furia-Together)
-![GitHub last commit](https://img.shields.io/github/last-commit/matheustm29/Furia-Together)
-![GitHub](https://img.shields.io/github/license/matheustm29/Furia-Together)
+![GitHub repo size](https://img.shields.io/github/repo-size/matheustm29/Furia_Together)
+![GitHub contributors](https://img.shields.io/github/contributors/matheustm29/Furia_Together)
+![GitHub last commit](https://img.shields.io/github/last-commit/matheustm29/Furia_Together)
+![GitHub](https://img.shields.io/github/license/matheustm29/Furia_Together)
 
 > Um aplicativo desenvolvido para conectar torcedores da FURIA, facilitando a organização de caronas para eventos e a revenda segura de ingressos entre fãs.
 
