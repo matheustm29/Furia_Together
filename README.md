@@ -1,10 +1,9 @@
 <div align="center">
 
-# Furia Together
-
-![Banner do Projeto](imagens/Tela1.png)
+![Banner do Projeto](imagens/logodeitado.png)
 
 </div>
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/matheustm29/Furia-Together)
 ![GitHub contributors](https://img.shields.io/github/contributors/matheustm29/Furia-Together)
 ![GitHub last commit](https://img.shields.io/github/last-commit/matheustm29/Furia-Together)
